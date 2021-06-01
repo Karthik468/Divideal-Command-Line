@@ -19,4 +19,7 @@ We can make 5 different kinds of splits
 3.SHARES
 4.PERCENT
 5.ADJUST
+
+
+
 You can access the same app from our flask app at [divideal](https://divideal.pythonanywhere.com/)
